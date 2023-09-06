@@ -1,0 +1,21 @@
+{
+    "project": {
+        "p1": [
+            {
+                "name": "CryptoVerse",
+                "role": "Web3 Developer",
+                "app-type": "React JS Application",
+                "description": "A decentralized cryptocurrency exchange React application with metamask pairing, live smart contract data fetching, and most importantly, the ability to create your own ERC20 tokens, swap them and more",
+                "links": [
+                    {
+                        "demolink": "",
+                        "codelink": ""
+                    }
+                ]
+            }
+        ],
+        "p2": [
+             
+        ]
+    }
+}
