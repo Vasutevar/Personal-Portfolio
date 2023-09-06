@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css";
 // import About from './About';
-import DevImg from "../assets/undraw_programming_re_kg9v.svg";
+// import DevImg from "../assets/undraw_programming_re_kg9v.svg";
 import Programmer from "../assets/thoughtworks-gif_dribbble.gif";
 import { HiArrowNarrowRight } from "react-icons/hi";
 
